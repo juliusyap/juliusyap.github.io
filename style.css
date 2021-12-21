@@ -1,0 +1,43 @@
+#msg {
+    font-style: italic;
+    font-size: 36px;
+    color: #f12469;
+    margin-top: 50px;
+}
+
+#button{
+    border-radius: 30px;
+    height: 40px;
+    width: 335px;
+    background-color: #f12469;
+    font-size: 20px;
+    color: #ffffff;
+    margin:0 auto;
+    padding-top: 15px;
+    margin-bottom: 50px;
+}
+
+#bio{
+    border-radius: 20px;
+    height: 20px;
+    width: 80px;
+    background-color: #2484f1;
+    font-size: 15px;
+    color: #000000;
+    margin:0 auto;
+    padding-top: 5px;
+    margin-bottom: 100px;
+}
+
+body{
+    font-family: "HelveticalNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #fcd2d8;
+    text-align: center;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
